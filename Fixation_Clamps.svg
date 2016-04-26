@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Halterung_Gateway.svg">
+  <defs
+     id="defs3338">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5603"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5605" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5607" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4163"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4165" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4151"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4153" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="274.26583"
+     inkscape:cy="92.725755"
+     inkscape:current-layer="layer1"
+     id="namedview3340"
+     showgrid="false"
+     inkscape:snap-grids="false"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3342">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.71412402;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4161"
+       width="179.28587"
+       height="29.285875"
+       x="0.35706201"
+       y="180.35707" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.36678803;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5613"
+       cx="90.25"
+       cy="195.00002"
+       r="5.066606" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37042466;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5615"
+       cx="15.75"
+       cy="195.00002"
+       r="3.0647876" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.37612349;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5615-0"
+       cx="164.3"
+       cy="195.00002"
+       r="3.1119382" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.30700648px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.153496,150.25885 0.250009,25.00082"
+       id="path5632"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.30700648px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 158.1535,150.25885 0.25001,25.00082"
+       id="path5632-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.30700648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.61401299, 1.22802597;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 90.153497,150.25885 0.250009,25.00082"
+       id="path5632-1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.3947349"
+       y="202.12344"
+       id="text5664"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5666"
+         x="2.3947349"
+         y="202.12344"
+         style="font-size:2.82222223px">15.5mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="76.232391"
+       y="206.80704"
+       id="text5668"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5670"
+         x="76.232391"
+         y="206.80704"
+         style="font-size:2.82222223px">Halterung 180 x 30mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="164.83757"
+       y="201.81798"
+       id="text5672"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5674"
+         x="164.83757"
+         y="201.81798"
+         style="font-size:2.82222223px">15.5mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="90.336456"
+       y="141.55049"
+       id="text5676"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5678"
+         x="90.336456"
+         y="141.55049"
+         style="font-size:2.82222223px;text-align:center;text-anchor:middle">Abstand Geländerstangen</tspan><tspan
+         sodipodi:role="line"
+         x="90.336456"
+         y="145.07826"
+         id="tspan5680"
+         style="font-size:2.82222223px;text-align:center;text-anchor:middle">aussen: 138mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="79.225822"
+       y="187.84869"
+       id="text5682"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5684"
+         x="79.225822"
+         y="187.84869"
+         style="font-size:2.82222223px">Bohrung: 10.5mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="151.467"
+       y="188.4474"
+       id="text5686"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5688"
+         x="151.467"
+         y="188.4474"
+         style="font-size:2.82222223px">Bohrung: 6.5mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="5.2270732"
+       y="189.22598"
+       id="text5686-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5688-5"
+         x="5.2270732"
+         y="189.22598"
+         style="font-size:2.82222223px">Bohrung: 6.5mm</tspan></text>
+  </g>
+</svg>
