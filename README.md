@@ -13,17 +13,24 @@ and @ local.ch for sponsoring the LoRaWan Concentrator and the RaspberryPi
 
 # BOM:
 IMST iC880A SPI with 3dB antenna, connected via ufl to SMA cable
+
 Raspberry Pi with (at least) 4GB SDcard configured as in https://github.com/ttn-zh/ic880a-gateway
 
 PoE Injector (Wall plug version) EU Power Over Ethernet AC/DC POE Adapter 48V 0.5A Injector Support IEEE802.3AF
+
 PoE Splitter ( PoE -> 12Volt)  Power Over Ethernet POE Splitter 10/100mbps 12V 2A POE Adapter
+
                                an other tested splitter (xV->5V) delivered only 4.7V   [:(]
+
                                Voltage Converter (xV -> 5Volt) preferable an adjustable one, set to 5.1Volt 
+
                                adj: LM317 DC-DC Linear Converter Buck Step Down Module
+
                                fix: Step Down Converter Buck Module DC 9V-40V to 5V 4Port USB (gives 4.8V!)
 
 
 PP-Tube (75 x 350mm) with cover  or 75 x 500mm and cut on the desired length
+
 Tube attachement:  (depending where you mount the tube)
 - 2 x Clamps
 - 4 x Fixation Clamps (see drawing)
@@ -35,8 +42,11 @@ Tube attachement:  (depending where you mount the tube)
 
 
 Mounting Plate (3mm Acrylic Glass laser cuttable!, see drawing)
+
 microUSB with 90° Elbow cable
+
 Ethernet cable : 10m flat PoE Plug to splitter , 2m router to PoE Plug
+
 some cable tie
 
                               
