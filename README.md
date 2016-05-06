@@ -21,11 +21,8 @@ PoE Injector (Wall plug version) EU Power Over Ethernet AC/DC POE Adapter 48V 0.
 PoE Splitter ( PoE -> 12Volt)  Power Over Ethernet POE Splitter 10/100mbps 12V 2A POE Adapter
 
                                an other tested splitter (xV->5V) delivered only 4.7V   [:(]
-
                                Voltage Converter (xV -> 5Volt) preferable an adjustable one, set to 5.1Volt 
-
                                adj: LM317 DC-DC Linear Converter Buck Step Down Module
-
                                fix: Step Down Converter Buck Module DC 9V-40V to 5V 4Port USB (gives 4.8V!)
 
 
